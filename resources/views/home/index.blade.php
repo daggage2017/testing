@@ -1,0 +1,1 @@
+<h1>Welcome laravel home page</h1>
